@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Abhay Jasrotia" width="100%" />
+  <img src="banner.svg" alt="Abhay Jasrotia" width="100%" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Telegram-23272A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-23272A?style=for-the-badge&logo=leetcode&logoColor=F89F1B" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-23272A?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abhayjasrotia&label=VIEWS&color=e63946&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SuperAdmin777&label=VIEWS&color=e63946&style=for-the-badge" />
 </p>
 
 <br/>
@@ -20,7 +20,7 @@
 ## `>_` whoami
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="terminal" width="80%" />
+  <img src="terminal.svg" alt="terminal" width="80%" />
 </p>
 
 <br/>
@@ -62,16 +62,16 @@
 ## `📊` Telemetry
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhayjasrotia&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9&ring_color=e63946" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayjasrotia&layout=compact&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SuperAdmin777&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9&ring_color=e63946" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperAdmin777&layout=compact&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjasrotia&hide_border=true&background=0d1117&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperAdmin777&hide_border=true&background=0d1117&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhayjasrotia&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&area_color=e63946&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuperAdmin777&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&area_color=e63946&hide_border=true" />
 </p>
 
 <br/>
@@ -79,7 +79,7 @@
 ## `🏆` Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhayjasrotia&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SuperAdmin777&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=12" />
 </p>
 
 <br/>
@@ -87,7 +87,7 @@
 ## `🐍` Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhayjasrotia/abhayjasrotia/output/snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/SuperAdmin777/SuperAdmin777/output/snake-dark.svg" alt="snake" />
 </p>
 
 <br/>
