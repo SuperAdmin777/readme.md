@@ -15,17 +15,19 @@
   <img src="https://komarev.com/ghpvc/?username=SuperAdmin777&label=VIEWS&color=e63946&style=for-the-badge" />
 </p>
 
-<br/>
+<img src="divider.svg" width="100%" />
 
-## `>_` whoami
+<h2 align="center"><code>>_</code> whoami</h2>
+<p align="center"><img src="terminal.svg" alt="terminal" width="80%" /></p>
 
-<p align="center">
-  <img src="terminal.svg" alt="terminal" width="80%" />
-</p>
+<img src="divider.svg" width="100%" />
 
-<br/>
+<h2 align="center"><code>///</code> live status</h2>
+<p align="center"><img src="dashboard.svg" alt="system status" width="90%" /></p>
 
-## `⚔` Arsenal
+<img src="divider.svg" width="100%" />
+
+<h2 align="center"><code>⚔</code> arsenal</h2>
 
 <table align="center">
   <tr>
@@ -45,9 +47,23 @@
   </tr>
 </table>
 
-<br/>
+<img src="divider.svg" width="100%" />
 
-## `📡` Mission Log
+<h2 align="center"><code>📦</code> featured projects</h2>
+
+<!-- Wrap each card in a link to the real repo: <a href="https://github.com/SuperAdmin777/REPO"><img ... /></a> -->
+<p align="center">
+  <a href="#"><img src="card-01.svg" width="48%" /></a>
+  <a href="#"><img src="card-02.svg" width="48%" /></a>
+</p>
+<p align="center">
+  <a href="#"><img src="card-03.svg" width="48%" /></a>
+  <a href="#"><img src="card-04.svg" width="48%" /></a>
+</p>
+
+<img src="divider.svg" width="100%" />
+
+<h2 align="center"><code>📡</code> mission log</h2>
 
 ```diff
 + [ACTIVE]    Automating infrastructure tasks with Bash & Python
@@ -57,9 +73,9 @@
 - [THREAT]    Production outages. Always lurking.
 ```
 
-<br/>
+<img src="divider.svg" width="100%" />
 
-## `📊` Telemetry
+<h2 align="center"><code>📊</code> telemetry</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SuperAdmin777&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9&ring_color=e63946" />
@@ -74,23 +90,20 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuperAdmin777&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&area_color=e63946&hide_border=true" />
 </p>
 
-<br/>
-
-## `🏆` Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SuperAdmin777&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=12" />
 </p>
-
-<br/>
-
-## `🐍` Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SuperAdmin777/SuperAdmin777/output/snake-dark.svg" alt="snake" />
 </p>
 
-<br/>
+<img src="divider.svg" width="100%" />
+
+<p align="center">
+  <b>Need a hand with Linux servers, automation or a quick script?</b><br/>
+  Ping me on <a href="https://www.linkedin.com/in/abhay-jasrotia-907487236/">LinkedIn</a>. I'm around.
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%22Discipline+beats+motivation.%22;%22Uptime+is+a+lifestyle.%22" />
